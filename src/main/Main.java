@@ -1,7 +1,5 @@
 package main;
 
-import java.util.Scanner;
-
 import astar.Map;
 
 public class Main {
